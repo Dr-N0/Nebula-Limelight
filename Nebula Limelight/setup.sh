@@ -83,7 +83,7 @@ mv ~/Desktop/NebulaLL/ll_termineter /usr/bin
 RED='\033[0;31m'
 NC='\033[0m'
 
-echo "Thank you for installing Limelight, by Nebula."
+echo "Thank you for installing Limelight, by Nebula"
 
-echo -e "To run an application, simply run ll_(application name) for more tools and applications visit ${RED}http://nebula.nyc${NC}"
+echo -e "To run an application, simply run ll_(application name). For more tools and applications, visit ${RED}https://nebula.nyc${NC}"
 
