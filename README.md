@@ -8,7 +8,7 @@ To download this program, head to https://nebula.nyc/limelight
 After downloading the file, unzip and drag the folder to your Desktop.
 Next, open your terminal and run the following commands:
 ```
-cd Desktop/NebulaLL
+cd ~/Desktop/Nebula Limelight
 chmod +x setup.sh
 ./setup.sh
 ```
