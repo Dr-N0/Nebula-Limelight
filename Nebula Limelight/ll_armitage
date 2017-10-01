@@ -1,0 +1,4 @@
+#! /bin/sh
+cd ~
+sudo service postgresql start
+armitage
