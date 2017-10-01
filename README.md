@@ -15,4 +15,4 @@ chmod +x setup.sh
 
 ## Usage
 Once you've run the setup, all you have to do is use `ll_(application name)` in the terminal to quickly open an application.
-For example, to open Kali you would just run `ll_kali`
+For example, to open BeEf you would just run `ll_beef`
